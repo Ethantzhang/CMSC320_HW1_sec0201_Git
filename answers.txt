@@ -6,3 +6,6 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Supply Chain Management, for example, ABC and EOQ analysis in warehouse inventory management.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging preserves the history of what happened, while rebasing rewrites the history for a clean line of commits
